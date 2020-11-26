@@ -1,5 +1,10 @@
 Compare 3
 
+<<<<<<< HEAD
 Compare 3
 
 Log 3
+=======
+Esse aqui é de logs somenetelino.
+Compare 3
+>>>>>>> refs/remotes/origin/develop
