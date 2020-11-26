@@ -7,5 +7,9 @@ public class MainClass {
 		System.out.println("Main method");
 		
 	}
+	
+	void metodoDaniel() {
+		System.out.println("Metodo Daniel!!!");
+	}
 
 }
