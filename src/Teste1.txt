@@ -1,2 +1,5 @@
 Compare 1
+
+Quero texto aqui no meio.
+
 compare 1
