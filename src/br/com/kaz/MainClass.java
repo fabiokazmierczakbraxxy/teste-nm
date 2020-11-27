@@ -10,8 +10,8 @@ public class MainClass {
 	
 	static void metodoDaniel() {
 		String a = "Ahhhh";
-		String b = " B";
-		System.out.println("Metodo Fabio!!!" + a + b);
+		String c = " C";
+		System.out.println("Metodo Fabio!!!" + a + c);
 	}
 
 }
