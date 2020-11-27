@@ -9,10 +9,7 @@ public class MainClass {
 	}
 	
 	static void metodoDaniel() {
-		String a = "Ahhhh";
-		String c = " C";
-		String b = " B";
-		System.out.println("Metodo Fabio!!!" + a + c + b);
+
 	}
 
 }
