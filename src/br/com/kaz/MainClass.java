@@ -11,7 +11,8 @@ public class MainClass {
 	static void metodoDaniel() {
 		String a = "Ahhhh";
 		String c = " C";
-		System.out.println("Metodo Fabio!!!" + a + c);
+		String b = " B";
+		System.out.println("Metodo Fabio!!!" + a + c + b);
 	}
 
 }
