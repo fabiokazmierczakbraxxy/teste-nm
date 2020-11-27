@@ -10,7 +10,7 @@ public class MainClass {
 	
 	void metodoDaniel() {
 		String a = "Ahhhh";
-		String b = " sim, claro";
+		String b = " sim, claro, como não";
 		System.out.println("Metodo Fabio!!!" + a+b);
 	}
 
