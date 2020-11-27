@@ -9,7 +9,7 @@ public class MainClass {
 	}
 	
 	void metodoDaniel() {
-		
+		System.out.println("Sim, é metodo Daniel");
 	}
 	
 }
