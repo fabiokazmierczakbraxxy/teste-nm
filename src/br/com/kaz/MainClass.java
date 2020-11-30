@@ -5,11 +5,8 @@ public class MainClass {
 	public static void main(String[] args) {
 
 		System.out.println("Main method");
-		
-	}
 	
-	void metodoDaniel() {
-		System.out.println("Sim, é metodo Daniel");
+		Daniel daniel = new Daniel();
+		daniel.metodoDaniel();
 	}
-	
 }
